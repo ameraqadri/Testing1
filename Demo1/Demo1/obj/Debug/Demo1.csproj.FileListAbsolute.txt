@@ -1,0 +1,9 @@
+D:\VB.Net\Demo1\Demo1\bin\Debug\Demo1.exe.config
+D:\VB.Net\Demo1\Demo1\bin\Debug\Demo1.exe
+D:\VB.Net\Demo1\Demo1\bin\Debug\Demo1.pdb
+D:\VB.Net\Demo1\Demo1\obj\Debug\Demo1.csprojResolveAssemblyReference.cache
+D:\VB.Net\Demo1\Demo1\obj\Debug\Demo1.Form1.resources
+D:\VB.Net\Demo1\Demo1\obj\Debug\Demo1.Properties.Resources.resources
+D:\VB.Net\Demo1\Demo1\obj\Debug\Demo1.csproj.GenerateResource.Cache
+D:\VB.Net\Demo1\Demo1\obj\Debug\Demo1.exe
+D:\VB.Net\Demo1\Demo1\obj\Debug\Demo1.pdb
